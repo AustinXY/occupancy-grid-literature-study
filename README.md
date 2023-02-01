@@ -32,3 +32,7 @@ density grids with spherical harmonics for color and shows that using ReLU activ
 voxel grid model, the density and color grids are optimized directly with no neural networks. This is
 akin to learning alpha and RGB values in an image directly in the 2D case. For the implicit version,
 we use neural networks to predict the density and color grids.
+
+
+### Behind the Scenes: Density Fields for Single View Reconstruction
+![image](https://user-images.githubusercontent.com/19706987/216167502-f18c07be-4bef-4dde-b8d0-defbd86bc92a.png)
