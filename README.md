@@ -1,5 +1,10 @@
 # occupancy-grid-literature-study
 
+## Codes
+https://github.com/openxrlab/xrnerf
+
+## Studies
+
 ![tesla_occupancy_grid](https://user-images.githubusercontent.com/19706987/214466612-58242b33-9c54-4c78-8714-8773603a2ca7.jpg)
 
 ### Semantic Scene Completion from a Single Depth Image
@@ -35,4 +40,5 @@ we use neural networks to predict the density and color grids.
 
 
 ### Behind the Scenes: Density Fields for Single View Reconstruction
-![image](https://user-images.githubusercontent.com/19706987/216167502-f18c07be-4bef-4dde-b8d0-defbd86bc92a.png)
+https://fwmb.github.io/bts/
+![image](https://user-images.githubusercontent.com/19706987/216167502-f18c07be-4bef-4dde-b8d0-defbd86bc92a.png)  
