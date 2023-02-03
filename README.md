@@ -1,7 +1,8 @@
 # occupancy-grid-literature-study
 
 ## Codes
-https://github.com/openxrlab/xrnerf
+https://github.com/openxrlab/xrnerf  
+https://github.com/KAIR-BAIR/nerfacc
 
 ## Studies
 
